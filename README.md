@@ -14,19 +14,19 @@
 - ⚡ Fun fact: I ❤️ food, travelling and cats 😸
 
 ## Connect with me:<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
-<a href="https://www.linkedin.com/in/anas-khan-993aa91b7/" target="_blank" >
+<a href="https://www.linkedin.com/in/ahmedfarazz/7/" target="_blank" >
   <img align="left"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<a href="https://twitter.com/anaskhan_28" target="_blank" >
+<a href="https://x.com/Ahmedfarazz_" target="_blank" >
     <img align="left" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
   <a href="https://anaskhan28.hashnode.dev/" target="_blank">
     <img align="left"  src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/anaskhan.28/" target="_blank">
+  <a href="https://www.instagram.com/ahmedfarazz_/" target="_blank">
     <img align="left"  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:khananasatique@gmail.com">
+  <a href="mailto:iamahmedfarazz@gmail.com">
     <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
